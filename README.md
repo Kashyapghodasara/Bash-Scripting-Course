@@ -1,2 +1,5 @@
 # Bash-Scripting-Course
-**Bash for Beginners Course** 
+
+By `Bitten Tech Youtube Channel`
+
+- Learn about the Linux basics and the art of automation and scripting in bash shell.
