@@ -1,5 +1,7 @@
 # Project 2 == Random Number Guess
 
+#!/bin/bash
+
 echo "=== Welcome to Number Guessing Game ==="
 echo "You have to guess number from 1 to 100 and system will tell how far and near you are."
 echo "-----------------------------"

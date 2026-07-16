@@ -1,3 +1,7 @@
+# Project 1 - Student Grade Calculator
+
+#!/bin/bash
+
 read -p "Enter Student Name : " name
 echo "========== Enter 5 Subjects Mark : =========="
 
